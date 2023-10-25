@@ -1,0 +1,2 @@
+#define VERSION_MAJOR @NaiveBayesClassifier_VERSION_MAJOR@
+#define VERSION_MINOR @NaiveBayesClassifier_VERSION_MINOR@

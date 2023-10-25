@@ -1,0 +1,3 @@
+/home/shehan/projects/naive-bayes-classifier/build/CMakeFiles/NaiveBayesClassifier.dir
+/home/shehan/projects/naive-bayes-classifier/build/CMakeFiles/edit_cache.dir
+/home/shehan/projects/naive-bayes-classifier/build/CMakeFiles/rebuild_cache.dir

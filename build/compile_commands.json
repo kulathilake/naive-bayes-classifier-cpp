@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/shehan/projects/naive-bayes-classifier/build",
-  "command": "/usr/bin/g++  -I/home/shehan/projects/naive-bayes-classifier/build -g -std=gnu++11 -o CMakeFiles/NaiveBayesClassifier.dir/main.cpp.o -c /home/shehan/projects/naive-bayes-classifier/main.cpp",
-  "file": "/home/shehan/projects/naive-bayes-classifier/main.cpp"
-}
-]
